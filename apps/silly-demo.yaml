@@ -24,3 +24,6 @@ spec:
       name: idp-full-app
     ci:
       enabled: true
+    scaling:
+      enabled: true
+      min: 2
